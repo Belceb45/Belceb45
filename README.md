@@ -13,7 +13,7 @@
 - Passionate Front-end and Back-end developer
 - Currently learning Web Development
 - Portafolio [link]()
-- I’m currently open for an Intern or a new job opportunity, this is [My Linkedin](!CV.pdf)
+- I’m currently open for an Intern or a new job opportunity, this is [My Linkedin](CV.pdf)
 
 <br><br>
 
