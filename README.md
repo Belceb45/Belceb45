@@ -13,7 +13,7 @@
 - Passionate Front-end and Back-end developer
 - Currently learning Web Development
 - Portafolio [link]()
-- I’m currently open for an Intern or a new job opportunity, this is [My Linkedin](www.linkedin.com/in/rubio-haro-diego-42697a25b)
+- I’m currently open for an Intern or a new job opportunity, this is [My Linkedin](!CV)
 
 <br><br>
 
