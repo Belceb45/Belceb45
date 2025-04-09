@@ -1,6 +1,6 @@
 
 <h1 align="center"><b>Hi , I'm Diego Rubio </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<!--  -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0C6D9E&width=435&lines=Software+Ingeniery;Full+Stack+Developer;Love+learning+new+technologies" alt="Typing SVG" /></a>
 </p>
@@ -75,15 +75,10 @@
 
   <a href="https://github.com/Belceb45/">
     <img src="https://github-readme-stats.vercel.app/api?username=Belceb45&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Belceb45&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Belceb45" />
-    <img alt="Belceb45's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Belceb45&theme=dark" />
-
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Belceb45&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Belceb45"/>
   </a>
 
 </div>
-
-
-
 <br>
 <br>
 <br>
