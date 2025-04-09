@@ -76,6 +76,8 @@
   <a href="https://github.com/Belceb45/">
     <img src="https://github-readme-stats.vercel.app/api?username=Belceb45&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Belceb45&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Belceb45" />
+    <img alt="Belceb45's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Belceb45&theme=dark" />
+
   </a>
 
 </div>
