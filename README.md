@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
+<a href="https://github.com/Belceb45/">
   <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
 
@@ -93,23 +93,22 @@
 <br>
 <div align='left'>
 
+
 <ul>
 
-<li>
-<a href="www.linkedin.com/in/rubio-haro-diego-42697a25b" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
+  <li>
+    <a href="https://www.linkedin.com/in/rubio-haro-diego-42697a25b" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn:%20rubio--haro--diego-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+    </a>
+  </li>
 
-<br>
-<br>
+  <br><br>
 
-<li>
-<a href="mailto:rubiodiego001@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail:%20rubiodiego001-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
-</a>
-
-</li>
+  <li>
+    <a href="mailto:rubiodiego001@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail:%20rubiodiego001-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
+    </a>
+  </li>
 	
 </ul>
 </div>
