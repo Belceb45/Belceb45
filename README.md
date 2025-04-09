@@ -13,7 +13,7 @@
 - Passionate Front-end and Back-end developer
 - Currently learning Web Development
 - Portafolio [link]()
-- I’m currently open for an Intern or a new job opportunity, this is [My Linkedin](CV.pdf)
+- I’m currently open for an Intern or a new job opportunity, this is [My CV](CV.pdf)
 
 <br><br>
 
@@ -36,7 +36,7 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![React JS](https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![React JS](https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=for-the-badge&logo=React&logoColor=blue)
 
 <br>
 
